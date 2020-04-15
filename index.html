@@ -5,12 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>javascript practice</title>
   <style>
+    body{
+      display: flex;
+      flex-wrap: wrap;
+    }
     .box{
       width: 100px;
       height: 100px;
       background-color: skyblue;
       cursor: pointer;
       transition: 0.8s;
+      margin: 0 8px 8px 0;
     }
     .circle{
       background-color: pink;
@@ -20,17 +25,23 @@
   </style>
 </head>
 <body>
-  <div class="box" id='target'>  </div>
+  <div class="box" id='target1'> </div>
+  <div class="box" id='target2'> </div>
+  <div class="box" id='target3'> </div>
 
   <script>
     'use strict';
 
-    const target = document.getElementById('target');
+    const target1 = document.getElementById('target1');
+    const target2 = document.getElementById('target2');
+    const target3 = document.getElementById('target3');
 
-    target.addEventListener('click', ()=>{
-      // target.style.background ='pink';
-      // target.style.borderRadius ='50%';
-      target.classList.toggle('circle');
+    target1.addEventListener('click', ()=>{
+      target1.classList.toggle('circle');
+    target2.addEventListener('click', ()=>{
+      target2.classList.toggle('circle');
+    target3.addEventListener('click', ()=>{
+      target3.classList.toggle('circle');
 
     });
 
