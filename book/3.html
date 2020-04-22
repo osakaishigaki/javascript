@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>title</title>
+</head>
+<body>
+   
+  <p>---ppp---</p>
+</body>
+
+
+
+
+<section>
+  <p id="p1"></p>
+  <p id="p2"></p>
+  <p id="p3"></p>
+</section>
+
+<footer>---footer---</footer>
+  <script>
+
+    var total = function(price){
+      var tax = 0.08;
+      return price + price *tax;
+    }
+
+    document.getElementById('p1').textContent = 'coffee machine price is '+ total(8000) + ' yen include tax';
+    document.getElementById('p2').textContent = 'coffee filter price is '+ total(200) + ' yen include tax';
+    document.getElementById('p3').textContent = 'coffee beens price is '+ total(1000) + ' yen include tax';
+
+  </script>
+</html>
