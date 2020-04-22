@@ -3,25 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>title</title>
 </head>
 <body>
    
-  <p>Date and Time
-
-  </p>
+  <p>---ppp---</p>
 </body>
 
 
 
 
 <section>
-  <p id="choice">Day;Time</p>
+  <p id="output"></p>
 </section>
 
-<footer>javascript sample</footer>
+<footer>---footer---</footer>
   <script>
 
-document.getElementById('choice').textContent = new Date();
+    var total = function(price){
+      var tax = 0.08;
+      return price + price *tax;
+    }
+
+    console.log(`coffee machine price is ${total(8000)} yen include tax`);
+    document.getElementById('output').textContent = 'coffee machine price is '+ total(8000) + ' yen include tax';
+
   </script>
 </html>
