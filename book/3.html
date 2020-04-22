@@ -14,7 +14,9 @@
 
 
 <section>
-  <p id="output"></p>
+  <p id="p1"></p>
+  <p id="p2"></p>
+  <p id="p3"></p>
 </section>
 
 <footer>---footer---</footer>
@@ -25,8 +27,9 @@
       return price + price *tax;
     }
 
-    console.log(`coffee machine price is ${total(8000)} yen include tax`);
-    document.getElementById('output').textContent = 'coffee machine price is '+ total(8000) + ' yen include tax';
+    document.getElementById('p1').textContent = 'coffee machine price is '+ total(8000) + ' yen include tax';
+    document.getElementById('p2').textContent = 'coffee filter price is '+ total(200) + ' yen include tax';
+    document.getElementById('p3').textContent = 'coffee beens price is '+ total(1000) + ' yen include tax';
 
   </script>
 </html>
