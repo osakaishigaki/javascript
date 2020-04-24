@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>title</title>
+</head>
+<body>
+   
+  <p>---ppp---</p>
+</body>
+
+
+
+
+<section>
+  <h1>yarukoto</h1>
+  <ul id="list"></ul>
+</section>
+
+<footer>---footer---</footer>
+  <script>
+
+var todo =['maru',2,3,4];
+todo.unshift(6,7,8,9)
+todo.push( 5 );
+for (var i = 0; i < todo.length; i++){
+  var li = document.createElement('li');
+  li.textContent = todo[i];
+  document.getElementById('list').appendChild(li);
+  
+}
+for (var i=0;i<todo.length;i++){
+  var li = document.createElement('li');
+  li.textContent=todo[i];
+  document.getElementById('list').appendChild(li)
+}
+
+
+  </script>
+</html>
