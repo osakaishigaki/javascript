@@ -24,12 +24,10 @@ var jsbook = {
     price:2500,
     stock:3,
   };
-  console.log(jsbook);
-  console.log(jsbook.title);
-  console.log(jsbook['price']);
-  jsbook.stock=110;
-  
-  console.log(jsbook.stock);
+
+  for (var p in jsbook){
+    console.log(p+'='+jsbook[p]);
+  }
 
 
 
