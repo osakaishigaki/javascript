@@ -5,26 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>title</title>
 </head>
+
+
 <body>
    
   <p>---ppp---</p>
-
-    </tr>
-  </table>
 </body>
 
-<section>
-</section>
 
+<section>
+  <form action="#" id="from">
+    <input type="submit" value="serch">
+  </form>
+</section>
 <footer>---footer---</footer>
 
+
+<script>
+  document.getElementById('form').onsubmit = function() {
+    console.log('click saretayo');
+    
   };
-  
-  document.getElementById('title').textContent = jsbook.title;
-  document.getElementById('price').textContent = jsbook.price;
-  document.getElementById('stock').textContent = jsbook.stock;
+    
 
 
-  
+
   </script>
 </html>

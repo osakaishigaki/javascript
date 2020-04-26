@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+		<title>サイトのタイトル</title>
+		<atom:link href="http://..." rel="self" type="application/rss+xml" /><!-- フィードのURL -->
+		<link>http://www.solidpanda.com/book</link><!-- サイトのURL -->
+		<description>サイトの説明</description>
+		<item>
+			<title>記事タイトル</title>
+			<link>http://www.solidpanda.com/book/news/1914/</link><!-- 記事のリンク -->
+			<pubDate>Mon, 13 Jul 2015 03:52:39 +0000</pubDate><!-- 記事が公開された日付 -->
+			<dc:creator><![CDATA[記事の作者]]></dc:creator><!-- 拡張 -->
+			<description>記事の説明</description>
+			<content:encoded><![CDATA[記事の内容]]></content:encoded><!-- 拡張 -->
+			<!-- 
+			正式には：
+			title
+			link
+			description
+			author
+			category
+			comments
+			enclosure
+			guid
+			pubDate
+			source
+			-->
+		</item>
+	</channel>
+</rss>
