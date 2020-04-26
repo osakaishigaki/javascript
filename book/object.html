@@ -8,12 +8,7 @@
 <body>
    
   <p>---ppp---</p>
-  <table>
 
-    <tr>
-      <td id="stock"></td>
-      <td id="price"></td>
-      <td id="title"></td>
     </tr>
   </table>
 </body>
@@ -22,18 +17,14 @@
 </section>
 
 <footer>---footer---</footer>
-  <script>
 
-var jsbook = {　//ここだけ順番変えるとエラーが出る、
-  // 他は大丈夫なのになんでかな？？
-  title:'nyuumon',
-  price:2500,
-  stock:3
   };
-
+  
   document.getElementById('title').textContent = jsbook.title;
-  document.getElementById('price').textContent = jsbook.price+"yen";
-  document.getElementById('stock').textContent = jsbook.stock+"koaru";
+  document.getElementById('price').textContent = jsbook.price;
+  document.getElementById('stock').textContent = jsbook.stock;
+
+
   
   </script>
 </html>
