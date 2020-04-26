@@ -8,6 +8,14 @@
 <body>
    
   <p>---ppp---</p>
+
+  <table>
+    <tr>
+      <td id="title"></td>
+      <td id="price"></td>
+      <td id="stock"></td>
+    </tr>
+  </table>
 </body>
 
 
@@ -17,21 +25,18 @@
 </section>
 
 <footer>---footer---</footer>
-  <script>
-
-var jsbook = {
+<script>
+  
+  var jsbook = {
     title:'nyuumon',
     price:2500,
     stock:3,
   };
-  console.log(jsbook);
-  console.log(jsbook.title);
-  console.log(jsbook['price']);
-  jsbook.stock=110;
   
-  console.log(jsbook.stock);
+  document.getElementById('title').textContent = jsbook.title;
+  document.getElementById('price').textContent = jsbook.price;
+  document.getElementById('stock').textContent = jsbook.stock;
 
-
-
+  
   </script>
 </html>
