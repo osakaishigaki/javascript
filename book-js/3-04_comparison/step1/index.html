@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<title>3-04_comparison</title>
+<link href="../../_common/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<div class="header-contents">
+<h1>数当てゲーム</h1>
+<h2>さまざまな比較演算子を使用する</h2>
+</div><!-- /.header-contents -->
+</header>
+<div class="main-wrapper">
+<section>
+	
+</section>
+</div><!-- /.main-wrapper -->
+<footer>JavaScript Samples</footer>
+<script>
+var number = Math.floor(Math.random() * 6);
+var answer = parseInt(window.prompt('数当てゲーム。0〜5の数字を入力してね。'));
+var message;
+if(answer === number) {
+	message = 'あたり！';
+} else if(answer < number) {
+	message = '残念でした！もっと大きい';
+} else if(answer > number) {
+	message = '残念でした！もっと小さい';
+} else {
+	message = '0〜5の数字を入力してね。';
+}
+window.alert(message);
+</script>
+</body>
+</html>

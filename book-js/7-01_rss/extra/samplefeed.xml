@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>狩野祐東の本 solidpanda.com</title>
+	<atom:link href="http://www.solidpanda.com/book/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.solidpanda.com/book</link>
+	<description>狩野祐東の著書紹介・サポートサイト</description>
+	<lastBuildDate>Mon, 13 Jul 2015 05:09:09 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.3</generator>
+	<item>
+		<title>『今から学ぶ！HTML5の基本』セミナー、終了しました！</title>
+		<link>http://www.solidpanda.com/book/news/1914/</link>
+		<comments>http://www.solidpanda.com/book/news/1914/#comments</comments>
+		<pubDate>Mon, 13 Jul 2015 03:52:39 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1914</guid>
+		<description><![CDATA[7月12日、コワーキングスペースCase Shinjukuをお借りして開催した自主企画セミナー『今から学ぶ！HTML5の基本』無事終了しました。]]></description>
+				<content:encoded><![CDATA[<p>7月12日、コワーキングスペース<a href="http://case-shinjuku.com" target="_blank">Case Shinjuku</a>をお借りして開催した自主企画セミナー『今から学ぶ！HTML5の基本』無事終了しました。イベントの企画の立て方、告知の仕方、進め方、私にとっては学ぶこと、反省の多い会になりました。参加してくださった皆様のお役に立てたかどうか……　ともかくお疲れさまでした。</p>
+<p><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/07/20150712-html5seminar.jpg" alt="20150712-html5seminar" class="alignnone size-full wp-image-1915" /></p>
+<p>HTML5で追加された機能の概要と、その中でももっとも普及している（と思われる）メディアクエリーについて解説しました。今後の状況の予想も。そのうち普及するであろうとにらんでいるflexboxとsrcset属性もサンプルを用意していたのですがそこまで到達しませんでした……　話がちょっとゆっくりすぎたかな？　いろいろな反省を生かして次回以降につなげます！</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1914/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>セミナー開催決定！『今から学ぶ！HTML5の基本』</title>
+		<link>http://www.solidpanda.com/book/news/1881/</link>
+		<comments>http://www.solidpanda.com/book/news/1881/#comments</comments>
+		<pubDate>Tue, 09 Jun 2015 08:53:13 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1881</guid>
+		<description><![CDATA[HTML5入門セミナー『今から学ぶ！HTML5の基本』を開催します。
+HTMLはだいたい書けるけどHTML5に乗り遅れた！詳しく知らないから知りたい！という方向けセミナーを開催します。7月12日（日）14:30〜　高田馬場CASE Shinjukuで。]]></description>
+				<content:encoded><![CDATA[<p><a href="http://imakara-html5.peatix.com" target="_blank" title="peatix概要・申し込みページへ移動します"><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/06/seminar-html5.png" alt="seminar-html5"  class="alignnone size-full wp-image-1883" /></a></p>
+<p>HTML5入門セミナー『今から学ぶ！HTML5の基本』を開催します。<br />
+HTMLはだいたい書けるけどHTML5に乗り遅れた！詳しく知らないから知りたい！という方向けセミナーです。HTML5移行にあたって重要なポイント、近い将来普及が見込まれるテクニックを中心に、最新情報をまとめて紹介します。</p>
+<p><strong>日時：</strong><time datetime="2015-07-12 14:30:00-0900">2015年7月12日（日）14:30〜16:30</time>（終了後17:00まで質疑応答＆懇親タイム）<br />
+<strong>場所：</strong><a href="http://case-shinjuku.com" target="_blank">CASE Shinjuku</a><br />
+　　　高田馬場駅徒歩1分のコーワーキングスペース<br />
+　　　東京都新宿区高田馬場1-28-10　三慶ビル４F</p>
+<p>セミナー概要、受講のお申し込みはチケットサイトPeatixで受け付けております。</p>
+<div style="font-size:200%;"><a href="http://imakara-html5.peatix.com" target="_blank">http://imakara-html5.peatix.com</a></div>
+<p>皆様のご参加を心よりお待ちしております。</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1881/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>スラスラわかるCSSデザインのきほん 電子版配信開始</title>
+		<link>http://www.solidpanda.com/book/news/1862/</link>
+		<comments>http://www.solidpanda.com/book/news/1862/#comments</comments>
+		<pubDate>Thu, 16 Apr 2015 04:34:43 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1862</guid>
+		<description><![CDATA[好評発売中『<a href="http://www.amazon.co.jp/gp/product/B00VUS6WOE/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=B00VUS6WOE&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">スラスラわかるCSSデザインのきほん</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=B00VUS6WOE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />』、電子書籍版が登場しました。]]></description>
+				<content:encoded><![CDATA[<p>好評発売中『<a href="http://www.amazon.co.jp/gp/product/B00VUS6WOE/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=B00VUS6WOE&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">スラスラわかるCSSデザインのきほん</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=B00VUS6WOE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />』、電子書籍版が登場しました。amazonでは1,900円。紙の書籍版よりも150円ほどお買い得です。</p>
+<p>そのうち<a href="http://honto.jp" target="_blank">honto.jp</a>などでも配信されると思います。この機会にぜひご検討ください。</p>
+<p><a href="http://www.amazon.co.jp/gp/product/B00VUS6WOE/ref=as_li_ss_il?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=B00VUS6WOE&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&#038;ASIN=B00VUS6WOE&#038;Format=_SL250_&#038;ID=AsinImage&#038;MarketPlace=JP&#038;ServiceVersion=20070822&#038;WS=1&#038;tag=solidpanda-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=B00VUS6WOE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1862/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>スラスラわかるHTML&amp;CSSのきほん、第7刷を記念してプレゼント！</title>
+		<link>http://www.solidpanda.com/book/news/1803/</link>
+		<comments>http://www.solidpanda.com/book/news/1803/#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 02:51:49 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1803</guid>
+		<description><![CDATA[HTML入門書籍『スラスラわかるHTML&#38;CSSのきほん』おかげさまで第7刷になりました。これを記念して本書最新版を2名の方にプレゼントします！　応募は2015/4/12まで]]></description>
+				<content:encoded><![CDATA[<p>大好評『<a href="http://www.amazon.co.jp/gp/product/4797372966/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=4797372966&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">スラスラわかるHTML&amp;CSSのきほん</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=4797372966" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />』、おかげさまで第7刷になりました。</p>
+<p>増刷すると出版社から新刷が送られてきます。先週の土曜日くらいにわたしの手元に届きました。パチッ。と記念撮影。</p>
+<p><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/04/sura7th.jpg" alt="" class="alignnone size-full wp-image-1844 img-responsive" /></p>
+<p>1冊は校正用に手元に残しておきます。増刷のたびにひととおり確認をしているので、7刷になるとさすがにもう間違っているところとか、誤植とかはない（たぶん）と思いますが、チェックするのも任務のひとつ。</p>
+<p>6刷から7刷へ切り替えのタイミングなのかどうかはわかりませんが、4月7日現在、残念ながら<a href="http://www.amazon.co.jp/gp/product/4797372966/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=4797372966&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">amazonでは在庫切れの模様</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=4797372966" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />……</p>
+<p><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/04/sold1.jpg" alt="" class="alignnone size-full wp-image-1845 img-responsive img-thumbnail" /></p>
+<p style="font-size:48px;color:red;font-weight:bold;">そこで！</p>
+<p>今回はわたしの手元にある新着第7刷のうち、2冊をプレゼントします！<br />
+Twitterで募集します。ほしい方がいらっしゃいましたら、次のようなツィートをしてください。</p>
+<h2>応募のしかた</h2>
+<ol>
+<li>まず、わたし &ldquo;<a href="https://twitter.com/deinonychus947" target="_blank">@deinonychus947</a>&rdquo; をフォローしていない方はしてください（お送りする方にダイレクトメッセージでご連絡するため）</li>
+<li><strong>スラスラプレゼント希望</strong> というメッセージと…</li>
+<li>わたしのアカウント <strong>@deinonychus947</strong> と…</li>
+<li>ハッシュタグ <strong>#sura2html</strong> と…</li>
+<li>このページの短縮URL <strong>&ldquo;<a href="http://bit.ly/sura2html">http://bit.ly/sura2html</a>&rdquo;</strong> を含め…</li>
+<li>その他字数の範囲内でお好きなように…</li>
+<li>ツィートしてください</li>
+</ol>
+<p>こんなかんじ。</p>
+<div class="form-group">
+<textarea class="form-control">スラスラプレゼント希望 @deinonychus947 #sura2html http://bit.ly/sura2html</textarea>
+</div>
+<ul>
+<li>応募締め切りは<del>2015年4月12日（日）</del>いっぱい <strong style="color: red;">終了しました</strong></li>
+<li>応募多数の場合は抽選で2名様にお送りします。応募は1人1回でお願いします。</li>
+<li>当選発表はTwitter上で行います。</li>
+<li>また、当選された方にはダイレクトメッセージをお送りします。</li>
+<li>その後宛先やお名前を教えていただきますが、それらの情報はプレゼントの配送以外には使用しません。</li>
+<li>もちろん送料はこちらで負担しますのでご心配なく。</li>
+<li>このプレゼント企画は著者が個人的に行っています。</li>
+</ul>
+<p>それでは、どしどしご応募ください！</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1803/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webクリエイター能力認定試験スタンダード 講師向けセミナー開催</title>
+		<link>http://www.solidpanda.com/book/news/1792/</link>
+		<comments>http://www.solidpanda.com/book/news/1792/#comments</comments>
+		<pubDate>Fri, 27 Mar 2015 02:55:15 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1792</guid>
+		<description><![CDATA[2015年4月10日、富士通FOM／サーティファイの共催で、「Webクリエイター能力認定試験スタンダード 講師向けWebセミナー」が開催されます。大学・専門学校・IT系スクールでHTMLを教えている先生方を対象としたセミナーです。セミナー講師はわたくし狩野祐東が務めます。参加無料、事前申し込みが必要です。]]></description>
+				<content:encoded><![CDATA[<p>来る4月10日、富士通FOM／サーティファイの共催で、「Webクリエイター能力認定試験スタンダード 講師向けWebセミナー」が開催されます。セミナー講師はわたしが務めます。</p>
+<p>今年1月に発売開始となった「Webクリエイター認定試験スタンダード 公式テキスト」の出版記念イベントとして、大学、専門学校、IT系スクール等でHTMLを教えている先生方向けのHTML5/CSS3導入講習を、Web経由で生放送配信します。</p>
+<p>HTML入門者向けにHTML5を教える際に、重要となるポイントを説明します。とくに次のような点を重点解説します。</p>
+<ul>
+<li>HTML5やCSS3の押さえておくべき新機能</li>
+<li>過去のHTML4.01/XHTML1.0からの変更点</li>
+<li>HTML5で導入された新たなタグ、&lt;article&gt;&lt;section&gt;のスッキリわかる使いかた</li>
+</ul>
+<p>HTML5やCSS3のすべての機能を取り上げるわけではありませんが、HTML入門者の生徒さんを教える場合に、これまでの指導から変える必要がある点をピックアップしてお届けします。HTML5を授業に取り入れる、新しい講座の開講を検討している先生方はぜひご覧ください。参加無料、事前申し込みが必要です。</p>
+<p>お申し込みはこちらからどうぞ。富士通FOM（公式テキストの出版社）からでも、サーティファイ（Webクリエイター能力認定試験主催者）からでも、お申し込みできます。</p>
+<ul>
+<li>富士通FOMのサイトから：<a href="http://bit.ly/1xjl6x6" target="_blank">http://bit.ly/1xjl6x6</a></li>
+<li>サーティファイのサイトから：<a href="http://bit.ly/1OBJqzL" target="_blank">http://bit.ly/1OBJqzL</a></li>
+</ul>
+<p style="color:#ff0000;">2015/3/27<br />
+定員に達したため事前登録は締め切りました。3月14日に録画放送をする予定だそうです。詳しくは富士通FOMのサイトをご覧ください。</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1792/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webクリエイター能力認定試験公式テキスト、そろい踏み！</title>
+		<link>http://www.solidpanda.com/book/news/1776/</link>
+		<comments>http://www.solidpanda.com/book/news/1776/#comments</comments>
+		<pubDate>Fri, 20 Mar 2015 04:08:10 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1776</guid>
+		<description><![CDATA[株式会社サーティファイ／Web利用・技術認定委員会主催「Webクリエイター能力認定試験」＜スタンダード＞＜エキスパート＞2つの試験の公式テキストが発売開始です。]]></description>
+				<content:encoded><![CDATA[<p>ついに2冊、揃いました。<br />
+株式会社サーティファイ／Web利用・技術認定委員会主催「Webクリエイター能力認定試験」＜スタンダード＞＜エキスパート＞2つの試験の公式テキストが出来上がりました。スタンダード公式テキストは1月下旬には出ていましたが、エキスパート公式テキストは出たばかり。まだ本屋さんにはあまり並んでいないようですが……　見かけたらよろしくお願いします。</p>
+<ul>
+<li><a href="http://www.amazon.co.jp/gp/product/4865101918/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=4865101918&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">Webクリエイター能力認定試験HTML5対応<strong>スタンダード</strong>公式テキスト</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=4865101918" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> をamazonで見る</li>
+<li><a href="http://www.amazon.co.jp/gp/product/486510206X/ref=as_li_ss_tl?ie=UTF8&#038;camp=247&#038;creative=7399&#038;creativeASIN=486510206X&#038;linkCode=as2&#038;tag=solidpanda-22" target="_blank">Webクリエイター能力認定試験HTML5対応<strong>エキスパート</strong>公式テキスト</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=solidpanda-22&#038;l=as2&#038;o=9&#038;a=486510206X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> をamazonで見る</li>
+</ul>
+<div id="attachment_1777" style="width: 760px" class="wp-caption alignnone"><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/03/webcre-books-e1426823946460.jpg" alt="Webクリエイター能力検定試験公式テキスト エキスパート（赤）とスタンダード（緑）" class="size-full wp-image-1777" /><p class="wp-caption-text">Webクリエイター能力検定試験公式テキスト エキスパート（赤）とスタンダード（緑）</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1776/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>実習サンプルデータ</title>
+		<link>http://www.solidpanda.com/book/download/1772/</link>
+		<comments>http://www.solidpanda.com/book/download/1772/#comments</comments>
+		<pubDate>Fri, 20 Mar 2015 02:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[solidpandabook]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=download&#038;p=1772</guid>
+		<description><![CDATA[「Web クリエイター能力認定試験 HTML5 対応　エキスパート 公式テキスト」の実習データは、FOM出版のサイトよりダウンロードできます。
+<a href="http://www.fom.fujitsu.com/goods/webcreator/fpt1418.html" title="FOM出版「Web クリエイター能力認定試験 HTML5 対応
+エキスパート 公式テキスト」" target="_blank">http://www.fom.fujitsu.com/goods/webcreator/fpt1418.html</a>]]></description>
+				<content:encoded><![CDATA[<p>「Web クリエイター能力認定試験 HTML5 対応　エキスパート 公式テキスト」の実習データです。</p>
+<h3>実習サンプルデータ</h3>
+<p>「Web クリエイター能力認定試験 HTML5 対応　エキスパート 公式テキスト」の実習データは、FOM出版のサイトよりダウンロードできます。<br />
+<a href="http://www.fom.fujitsu.com/goods/webcreator/fpt1418.html" title="FOM出版「Web クリエイター能力認定試験 HTML5 対応  エキスパート 公式テキスト」" target="_blank">http://www.fom.fujitsu.com/goods/webcreator/fpt1418.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/download/1772/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webクリエイター能力認定試験　HTML5対応　エキスパート　公式テキスト</title>
+		<link>http://www.solidpanda.com/book/title/webcre-exp/</link>
+		<comments>http://www.solidpanda.com/book/title/webcre-exp/#comments</comments>
+		<pubDate>Fri, 20 Mar 2015 02:39:05 +0000</pubDate>
+		<dc:creator><![CDATA[solidpandabook]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=title&#038;p=1767</guid>
+		<description><![CDATA[サーティファイ／Web利用・技術認定委員会「Webクリエイター能力認定試験　エキスパート」がHTML5に対応。公式テキストが新しくなりました。 Webクリエイター能力認定試験は、Webクリエイターに必要とされる、Webサ... [<a class="read-more" href="http://www.solidpanda.com/book/title/webcre-exp/">more</a>]]]></description>
+				<content:encoded><![CDATA[<h3>サーティファイ／Web利用・技術認定委員会「Webクリエイター能力認定試験　エキスパート」がHTML5に対応。公式テキストが新しくなりました。</h3>
+<blockquote><p>
+Webクリエイター能力認定試験は、Webクリエイターに必要とされる、Webサイト制作のデザイン知識およびWebページのコーディング能力を測定・評価する認定試験です。<br />
+エキスパートとスタンダードといった難易度に応じた級種を選択することで、現役のWebクリエイターはもちろんのこと、Webデザイナー、Webディレクター、Webプログラマー、それらを目指す学校・教育機関で学習されている方など、Webに関わる全ての方々を対象としています。</p>
+<p><cite>──株式会社サーティファイWebサイトより引用</cite>
+</p></blockquote>
+<p>本書は、サーティファイ／Web利用・技術認定委員会が主催する［Webクリエイター能力認定試験 HTML5対応］＜エキスパート＞向け公式テキストです。出題範囲のHTML・CSSをすべて網羅し、Webデザインやサイトの制作、管理、運営に関する知識も紹介。実務で役立つ力を身につけることができます。</p>
+<p>実習形式でHTMLとCSSの学習をするのでわかりやすく、試験対策にとどまらない、実践力を培うことができます。<br />
+また、エキスパート版には実技だけでなくWebサイト制作・Webデザインに関する基礎的な知識も紹介しています。</p>
+<p>試験の詳細については、「Webクリエイター能力認定試験」Webサイトをご参照ください。<br />
+<i class="fa fa-arrow-right"></i> <a href="http://www.sikaku.gr.jp/web/wc/" title="サーティファイ［Webクリエイター能力認定試験 HTML5対応］" target="_blank">http://www.sikaku.gr.jp/web/wc/</a></p>
+<p>また、この書籍についてのサポートはFOM出版が受け付けています。<br />
+<i class="fa fa-arrow-right"></i> <a href="http://www.fom.fujitsu.com/goods/webcreator/fpt1418.html" title="FOM出版" target="_blank">FOM出版「Webクリエイター能力認定試験　HTML5対応　エキスパート　公式テキスト」紹介ページ</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/title/webcre-exp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Webクリエイター能力認定試験エキスパート、現在印刷中</title>
+		<link>http://www.solidpanda.com/book/news/1739/</link>
+		<comments>http://www.solidpanda.com/book/news/1739/#comments</comments>
+		<pubDate>Tue, 03 Mar 2015 01:26:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sukeharu Kano]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=news&#038;p=1739</guid>
+		<description><![CDATA[サーティファイWeb利用・技術認定委員会が主催する「<a href="http://www.sikaku.gr.jp/web/wc/" target="_blank">Webクリエイター能力検定試験HTML対応 エキスパート</a>」公式テキスト、スタンダード公式テキストに引き続きわたしが執筆しました。正確な時期はよくわかりませんが、今月中に書店に並ぶと思います。]]></description>
+				<content:encoded><![CDATA[<p>サーティファイWeb利用・技術認定委員会が主催する「<a href="http://www.sikaku.gr.jp/web/wc/" target="_blank">Webクリエイター能力検定試験HTML対応 エキスパート</a>」公式テキスト、スタンダード公式テキストに引き続きわたしが執筆しました。正確な時期はよくわかりませんが、今月中に書店に並ぶと思います。</p>
+<p>この「Webクリエイター能力検定試験」、HTML5対応試験自体は昨年の11月に始まっているようですが、公式テキストはそれより遅れて発売ということになります。<a href="/book/title/webcre-std/">スタンダード公式テキスト</a>は1月27日に発売されています。まあそろそろ、今月中には、スタンダード／エキスパートともに出揃うことになります。</p>
+<p><iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&#038;bc1=000000&#038;IS2=1&#038;nou=1&#038;bg1=FFFFFF&#038;fc1=000000&#038;lc1=0000FF&#038;t=solidpanda-22&#038;o=9&#038;p=8&#038;l=as4&#038;m=amazon&#038;f=ifr&#038;ref=ss_til&#038;asins=4865101918" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><br />
+ちなみにこれはスタンダード公式テキスト</p>
+<p>さてこのエキスパート、スタンダードに比べて、HTMLとCSSを書いてサイトを作る実技問題の出題範囲が3割増くらい広くなっています。ちなみに、スタンダードの実技問題はある程度完成しているサイトに手を加えるようになっていますが、エキスパートはほぼゼロから自分でHTMLとCSSを書きます。まあ、ちゃんと理解できていれば難しい問題ではないと思いますが、スタンダードに比べるとしっかりした知識と能力が求められます。なお、エキスパートは実技問題に加えて、WebサイトやWebデザインにまつわる知識問題も出題されます。</p>
+<p>「Webクリエイター能力検定試験HTML対応」公式テキストは、スタンダード／エキスパートとも、サーティファイが配布しているサンプル問題を解きながら<sup><a href="#fn1">*1</a></sup>、HTMLとCSSの理解を深める実習形式になっています。エキスパートはスタンダードに比べ、よりHTMLとCSSをきちんと理解して自分で書けるようになっている必要があるので、「どうしてこう書くの？」という疑問にきっちり答える形で解説を書きました。出題範囲が広いことも相まってスタンダードに比べてちょっと分厚い！　のでおトク感があるかも。よろしくお願いします。</p>
+<p>エキスパート公式テキストはたぶん現在どこかの印刷所の印刷機が印刷しているんじゃないかと。amazonにもまだページができていないのでリンクもありませんが…　ほかに載せるものもありませんが…　ちなみに表紙カバーはこんな感じ。</p>
+<p><img src="http://www.solidpanda.com/book/wp-content/uploads/2015/03/2015-03-03_10-13-01.png" alt="Webクリエイター能力検定試験HTML5対応エキスパート" width="600" height="252" class="alignnone size-full wp-image-1743" /></p>
+<p>わたくし先日、高田馬場創業支援センターで6回シリーズで開催されている「<a href="http://incu.shinjuku-center.jp/2015/0115/540" target="_blank">ワンランク上のクリエイターとして独立したい方のための起業塾</a>」というのに聴講者として参加しましたが、そこで、Webクリエイター能力検定試験を受験したことがあるという方にお会いしました。へーそうなんだ。こうやって実際に受験した人に会うということは、結構な人数の人が受験しているはず。というわけで受験する方のお役に立てることを願っています。</p>
+<p><small id="fn1">*1 書籍の実習内容は、サーティファイが配布しているサンプル問題をベースに、学習や解説の内容に合わせて改変しているところがあります。</small></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/news/1739/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>実習サンプルデータ</title>
+		<link>http://www.solidpanda.com/book/download/1712/</link>
+		<comments>http://www.solidpanda.com/book/download/1712/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 03:05:57 +0000</pubDate>
+		<dc:creator><![CDATA[solidpandabook]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.solidpanda.com/book/?post_type=download&#038;p=1712</guid>
+		<description><![CDATA[「Web クリエイター能力認定試験 HTML5 対応　スタンダード 公式テキスト」の実習データは、FOM出版のサイトよりダウンロードできます。
+<a href="http://www.fom.fujitsu.com/goods/webcreator/fpt1417.html" title="FOM出版「Web クリエイター能力認定試験 HTML5 対応
+スタンダード 公式テキスト」" target="_blank">http://www.fom.fujitsu.com/goods/webcreator/fpt1417.html</a>]]></description>
+				<content:encoded><![CDATA[<p>「Web クリエイター能力認定試験 HTML5 対応　スタンダード 公式テキスト」の実習データです。</p>
+<h3>実習サンプルデータ</h3>
+<p>「Web クリエイター能力認定試験 HTML5 対応　スタンダード 公式テキスト」の実習データは、FOM出版のサイトよりダウンロードできます。<br />
+<a href="http://www.fom.fujitsu.com/goods/webcreator/fpt1417.html" title="FOM出版「Web クリエイター能力認定試験 HTML5 対応  スタンダード 公式テキスト」" target="_blank">http://www.fom.fujitsu.com/goods/webcreator/fpt1417.html</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.solidpanda.com/book/download/1712/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

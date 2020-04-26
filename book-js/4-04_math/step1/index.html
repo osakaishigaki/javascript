@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<title>4-04_math</title>
+<link href="../../_common/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<div class="header-contents">
+<h1>小数点第◯位で切り捨てる</h1>
+<h2>四則演算以外の計算をする</h2>
+</div><!-- /.header-contents -->
+</header>
+<div class="main-wrapper">
+<section>
+	<p>円周率は
+	<span><script>document.write(Math.PI);</script></span>
+	です。
+	</p>
+	<p>ふつうに切り捨てると
+	<span><script>document.write(Math.floor(Math.PI));</script></span>
+	です。
+	</p>
+	<p>小数点第2位で切り捨てると<span id="output"></span>です。</p>
+</section>
+</div><!-- /.main-wrapper -->
+<footer>JavaScript Samples</footer>
+<script>
+var point = function(num, digit) {
+	var time = Math.pow(10, digit);
+	return Math.floor(num * time) / time;
+}
+
+document.getElementById('output').textContent = point(Math.PI, 2);
+</script>
+</body>
+</html>

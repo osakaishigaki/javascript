@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<title>5-03_cookie</title>
+<link href="../../_common/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<div class="header-contents">
+<h1>アンケートへの回答は一度だけ</h1>
+<h2>クッキーの読み・書き・削除</h2>
+</div><!-- /.header-contents -->
+</header>
+<div class="main-wrapper">
+<section>
+	<p>映画館に行きますか？</p>
+	<form id="form" action="thankyou.html">
+		<input type="radio" name="frequency">週に1回以上<br>
+		<input type="radio" name="frequency">月に1回くらい<br>
+		<input type="radio" name="frequency">1年に数回程度<br>
+		<input type="radio" name="frequency">ほとんど行かない・映画は観ない<br>
+		<input type="submit" name="送信する" id="submit"><br>
+	</form>
+	<button id="remove">クッキー削除</button>
+</section>
+</div><!-- /.main-wrapper -->
+<footer>JavaScript Samples</footer>
+<script src="../../_common/scripts/js.cookie.js"></script>
+<script>
+document.getElementById('form').onsubmit = function(){
+	if(Cookies.get('answered') === 'yes') {
+		window.alert('回答ずみです。アンケートの回答は1回しかできません。');
+		return false;
+	} else {
+		Cookies.set('answered', 'yes', {expires: 7});
+	}
+};
+document.getElementById('remove').onclick = function() {
+	Cookies.remove('answered');
+};
+</script>
+</body>
+</html>
