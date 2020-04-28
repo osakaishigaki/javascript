@@ -18,21 +18,21 @@
 <section>
 	<p>円周率は
 	<span><script>document.write(Math.PI);</script></span>
-	です。
+	<!-- です。 -->
 	</p>
 	<p>ふつうに切り捨てると
 	<span><script>document.write(Math.floor(Math.PI));</script></span>
-	です。
+	<!-- です。 -->
 	</p>
 	<p>小数点第2位で切り捨てると<span id="output"></span>です。</p>
 </section>
 </div><!-- /.main-wrapper -->
 <footer>JavaScript Samples</footer>
 <script>
-var point = function(num, digit) {
-	var time = Math.pow(10, digit);
-	return Math.floor(num * time) / time;
-}
+// var point = function(num, digit) {
+// 	var time = Math.pow(10, digit);
+// 	return Math.floor(num * time) / time;
+// }
 
 document.getElementById('output').textContent = point(Math.PI, 2);
 </script>
