@@ -10,7 +10,7 @@
 <body>
 <header>
 <div class="header-contents">
-<h1>カウントダウンタイマー</h1>
+<h1>copy カウントダウンタイマー</h1>
 <h2>残り時間を計算するファンクションを作る</h2>
 </div><!-- /.header-contents -->
 </header>
@@ -23,21 +23,33 @@
 <script>
 var countdown = function(due) {
 	var now = new Date();
-
 	var rest = due.getTime() - now.getTime();
 	var sec = Math.floor(rest / 1000) % 60;
 	var min = Math.floor(rest / 1000 / 60) % 60;
-	var hours = Math.floor(rest / 1000 / 60 / 60) % 24;
+	var hours = Math.floor(rest / 1000 / 60 / 60) % 60;
 	var days = Math.floor(rest / 1000 / 60 / 60 / 24);
 	var count = [days, hours, min, sec];
-
 	return count;
+	// var now = new Date();
+
+	// var rest = due.getTime() - now.getTime();
+	// var sec = Math.floor(rest / 1000) % 60;
+	// var min = Math.floor(rest / 1000 / 60) % 60;
+	// var hours = Math.floor(rest / 1000 / 60 / 60) % 24;
+	// var days = Math.floor(rest / 1000 / 60 / 60 / 24);
+	// var count = [days, hours, min, sec];
+
+	// return count;
 }
 
 var goal = new Date();
-goal.setHours(23);
+goal.setHours(10);
 goal.setMinutes(59);
 goal.setSeconds(59);
+// var goal = new Date();
+// goal.setHours(23);
+// goal.setMinutes(59);
+// goal.setSeconds(59);
 
 console.log(countdown(goal));
 var counter = countdown(goal);
