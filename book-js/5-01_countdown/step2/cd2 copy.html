@@ -17,7 +17,18 @@
 </header>
 <div class="main-wrapper">
 <section>
-	<p>今から<span id="timer"></span>以内に注文すると50%オフ！</p>
+	<!-- <p>今から<span id="timer"></span>以内に注文すると50%オフ！</p> -->
+	<h2>Tokyo olimpic 2020</h2>
+	<p class="timer">
+		<span class="day"></span>
+		days
+		<span class="hour"></span>
+		hours
+		<span class="min"></span>
+		mins
+		<span class="sec"></span>
+		sec
+	</p>
 </section>
 </div><!-- /.main-wrapper -->
 <footer>JavaScript Samples</footer>
@@ -35,22 +46,33 @@ var countdown = function(due) {
 	return count;
 }
 
-var goal = new Date();
-goal.setHours(23);
-goal.setMinutes(59);
-goal.setSeconds(59);
-
+var goal = new Date(2020, 6,24);
+// goal.setHours(23);
+// goal.setMinutes(59);
+// goal.setSeconds(59);
+var recalc = function () {
 // var recalc = function() {
 	var counter = countdown(goal);
-	var time = counter[1] + '時間' + counter[2] + '分' + counter[3] + '秒';
-	document.getElementById('timer').textContent = time;
+	// var time = counter[1] + '時間' + counter[2] + '分' + counter[3] + '秒';
+	// document.getElementById('timer').textContent = time;
+	
+document.getElementById('day').textContent =　counter[0];
+document.getElementById('hour').textContent =　counter[1];
+document.getElementById('min').textContent =　counter[2];
+document.getElementById('sec').textContent =　counter[3];
 	refresh();
+	// refresh();
 // }
-
+	
+}
 var refresh = function() {
 	setTimeout(recalc, 1000);
 }
+// var refresh = function() {
+// 	setTimeout(recalc, 1000);
+// }
 recalc();
+// recalc();
 </script>
 </body>
 </html>
