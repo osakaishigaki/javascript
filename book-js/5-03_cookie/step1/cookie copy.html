@@ -16,20 +16,41 @@
 </header>
 <div class="main-wrapper">
 <section>
-	<!-- <p>映画館に行きますか？</p>
-	<form id="form" action="thankyou.html">
-		<input type="radio" name="frequency">週に1回以上<br>
-		<input type="radio" name="frequency">月に1回くらい<br>
-		<input type="radio" name="frequency">1年に数回程度<br>
-		<input type="radio" name="frequency">ほとんど行かない・映画は観ない<br>
-		<input type="submit" name="送信する" id="submit"><br> -->
-	</form>
-	<button id="remove">クッキー削除</button>
-</section>
+	<p>watch movie???</p>
+	<form action="thankyou.html" id="form">
+		<input type="radio" name="frequency">
+		1time/week <br>
+		<input type="radio" name="freequency">
+		1 time/month <br>
+		<input type="radio" name="freequency">
+		1 year/month <br>
+		<input type="radio" name="freequency">
+		barely <br>
+		
+		<!-- <input type="radio" name="frequency">週に1回以上<br>
+			
+			<input type="radio" name="frequency">月に1回くらい<br>
+			<input type="radio" name="frequency">1年に数回程度<br>
+			<input type="radio" name="frequency">ほとんど行かない・映画は観ない<br>
+			<input type="submit" name="送信する" id="submit"><br> --> -->
+			<!-- <button id="remove">クッキー削除</button> -->
+		<input type="submit" value="send" id='submit'> <br>
+		<button id="remove">cookie delete</button>
+		</form>
+		</section>
 </div><!-- /.main-wrapper -->
 <footer>JavaScript Samples</footer>
-<!-- <script src="../../_common/scripts/js.cookie.js"></script> -->
+<!-- <script src=""></script> -->
+<script src="../../_common/scripts/js.cookie.js"></script>
 <script>
+	document.getElementById('form').onsubmit = function(){
+		if(coolies.get('answerd')=== 'yes'){
+			window.aleart('answerd,only one chace!!');
+			return false;
+		} esle {
+			Cookies.set('answerd', 'yes',{expires:7});
+		}
+	};
 // document.getElementById('form').onsubmit = function(){
 // 	if(Cookies.get('answered') === 'yes') {
 // 		window.alert('回答ずみです。アンケートの回答は1回しかできません。');
@@ -38,7 +59,7 @@
 // 		Cookies.set('answered', 'yes', {expires: 7});
 // 	}
 };
-document.getElementById('remove').onclick = function() {
+// document.getElementById('remove').onclick = function() {
 	Cookies.remove('answered');
 };
 </script>
