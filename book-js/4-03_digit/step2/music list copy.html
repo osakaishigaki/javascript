@@ -10,13 +10,15 @@
 <body>
 <header>
 <div class="header-contents">
-<h1>「0」をつけて桁数を合わせる</h1>
-<h2>ファンクションを作成する</h2>
+<h1>copy「0」をつけて桁数を合わせる</h1>
+<h2>曲目リストに番号をつける</h2>
 </div><!-- /.header-contents -->
 </header>
 <div class="main-wrapper">
 <section>
-
+	<h2>Standards Revival MP3</h2>
+	<div id="list">
+	</div>
 </section>
 </div><!-- /.main-wrapper -->
 <footer>JavaScript Samples</footer>
@@ -29,7 +31,23 @@ var addZero = function(num, digit) {
 	return numString;
 }
 
-console.log(addZero(10, 20));
+var songs = [
+	'Stella By Starlight',
+	'Satin Doll',
+	'Caravan',
+	'Besame Mucho',
+	'My Favorite Things',
+	'Taking A Chance On Love',
+	'Fly Me To The Moon',
+	'Waltz For Debby',
+	'Willow Weep For Me',
+	'Bluesette'
+];
+for(var i = 0; i < songs.length; i++) {
+	var paragraph = document.createElement('h3');
+	paragraph.textContent = addZero(i + 1, 2) + '. ' + songs[i];
+	document.getElementById('list').appendChild(paragraph);
+}
 </script>
 </body>
 </html>
